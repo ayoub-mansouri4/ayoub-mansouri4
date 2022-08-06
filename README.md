@@ -8,7 +8,7 @@
 
 
 
-<a href="https://github.com/ayoub-mansouri4"><img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&show_icons=true&theme=gotham"  /></a>  <a href="https://github.com/ayoub-mansouri4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-mansouri4&layout=compact&theme=gotham&hide_border=true" /></a>
+
 
 
 
