@@ -5,6 +5,7 @@
 
 --!>
 <img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-mansouri4&layout=compact"/>
 
 
 
