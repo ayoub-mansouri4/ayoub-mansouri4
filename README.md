@@ -5,8 +5,8 @@
 
 --!>
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&theme=dark&show_icons=true" width="45%" height=180/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-mansouri4&layout=compact" width="45%" height=180/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&theme=dark&show_icons=true" width="45%" height=150/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-mansouri4&layout=compact" width="45%" height=150/>
 </p>
 
 
