@@ -5,13 +5,10 @@
 
 --!>
 
-
-hi, i'm [Ayoub Mansouri](https://www.linkedin.com/in/ayoub-mansouri4/)
-
  
+<br>
 
-
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&show_icons=true&theme=gotham" alt="ayoub-mansouri4" />
 
