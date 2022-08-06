@@ -42,17 +42,7 @@ hi, i'm [Ayoub Mansouri](https://www.linkedin.com/in/ayoub-mansouri4/), a passio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   1 hr 24 mins    ███████████████▓░░░░░░░░░   62.67 %
-SCSS         36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-```
-
-<!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -69,7 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoub-mansouri4&show_icons=true&theme=gotham" alt="ayoub-mansouri4" />
 
 
 
